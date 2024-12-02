@@ -1,8 +1,8 @@
 # workflows
-Contains basic workflows that I have assembled and used. 
+Contains basic workflows that I have assembled and used. Including:
+- Cytoscape & RCy3
 
 Plans: 
-- Cytoscape & RCy3
 - Basic RNA-seq analysis
 - Enrichment analyses (ORA, GSEA,
 - Single-cell RNA-seq analysis (Seurat)
